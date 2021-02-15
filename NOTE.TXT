@@ -1,0 +1,11 @@
+install
+----------
+npm i express ejs socket.io
+npm i uuid
+npm i --save-dev nodemon
+
+
+
+STEPS
+------
+1. npm init -y
